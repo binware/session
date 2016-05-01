@@ -1,0 +1,8 @@
+{
+  "name": "binware-core",
+  "version": "0.3.0",
+  "description": "Binware for Linux - Binware-core",
+  "global": true,
+  "repo": "binware/session",
+  "install": "bash setup.sh"
+}
